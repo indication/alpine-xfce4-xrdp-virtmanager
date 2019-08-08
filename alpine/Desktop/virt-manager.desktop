@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=virt-manager
+Icon=virt-manager
+Type=Application
+Terminal=false
+Name=Virtual Machine Manager
+GenericName=Virtual Machine Manager
+MimeType=text/html;
+StartupNotify=true
+Categories=System;
